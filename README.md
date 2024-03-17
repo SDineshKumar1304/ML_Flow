@@ -1,0 +1,9 @@
+# Sentiment Analysis tool
+
+![image](https://github.com/SDineshKumar1304/Sentiment_Analysis_tool/assets/125432987/ae4611df-6732-466a-ba3c-05bd0d30b0cc)
+![image](https://github.com/SDineshKumar1304/Sentiment_Analysis_tool/assets/125432987/667360b2-33ac-4979-b813-8c019e9ddbad)
+![image](https://github.com/SDineshKumar1304/Sentiment_Analysis_tool/assets/125432987/e46547af-157a-402f-9a1f-73145258af52)
+![image](https://github.com/SDineshKumar1304/Sentiment_Analysis_tool/assets/125432987/41e835aa-cb73-4b2e-9c6f-c5fcee034e1a)
+![image](https://github.com/SDineshKumar1304/Sentiment_Analysis_tool/assets/125432987/8eee4282-3504-4ec0-bbe5-765af18ed3a0)
+
+
